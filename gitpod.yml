@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      npm --prefix client install && npm --prefix smart_contract install
+  - command: |
+      npm --prefix client run dev
