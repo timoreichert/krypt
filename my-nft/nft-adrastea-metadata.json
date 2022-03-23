@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Order",
+            "value": "2"
+        },
+        {
+            "trait_type": "Label",
+            "value": "XV"
+        },
+        {
+            "trait_type": "Discovery year",
+            "value": "1979"
+        }
+    ],
+    "name": "Adrastea",
+    "image": "https://en.wikipedia.org/wiki/File:Adrastea.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Metis_(moon)"
+}

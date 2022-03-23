@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Order",
+            "value": "1"
+        },
+        {
+            "trait_type": "Label",
+            "value": "XVI"
+        },
+        {
+            "trait_type": "Discovery year",
+            "value": "1979"
+        }
+    ],
+    "name": "Metis",
+    "image": "https://en.wikipedia.org/wiki/File:Metis.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Metis_(moon)"
+}
