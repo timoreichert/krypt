@@ -1,7 +1,1 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/timoreichert/krypt)
-
-```bash
-npm install -g firebase-tools
-firebase login --no-localhost
-firebase deploy
-```
+Contract deployed to address: 0xBf633fA316E64DbcD2df136db673EDd7871405F3
